@@ -1,3 +1,8 @@
+Ruby is red,
+Typescript is blue,
+Objective C stinks,
+and so do you!
+
 Poem by tutorial watchers
 
 Ceiling to the Stars
